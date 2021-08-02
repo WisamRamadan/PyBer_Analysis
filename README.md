@@ -6,7 +6,7 @@ The purpose of this analysis is to show a summary of PyBer ride-sharing data per
 ### Summary of ride-sharing data
 ![summary](analysis/summary.png)
 
-The summary shows that urban cities are the most provitable ones. 
+The summary shows that urban cities are the most profitable ones. 
 ### Total weekly fares for each city type
 ![PyBer_fare_summary](analysis/PyBer_fare_summary.png)
 
